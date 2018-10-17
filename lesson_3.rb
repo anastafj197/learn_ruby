@@ -1,4 +1,4 @@
-# review of conditionals and flow control
+# review of conditionals & flow control
 if true && false 
   print "nahh"
 elsif false || false 
