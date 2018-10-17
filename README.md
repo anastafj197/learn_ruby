@@ -1,2 +1,2 @@
 # learn_ruby
-Learning Ruby 
+Learning Ruby through codecademy 
